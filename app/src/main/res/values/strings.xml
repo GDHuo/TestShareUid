@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TestShareUid</string>
+    <string name="test_str">call me when you are hear</string>
+</resources>
